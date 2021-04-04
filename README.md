@@ -12,3 +12,6 @@ Q3) Given a non-negative number represented as a list of digits, add 1 to the nu
 Q4) Given an unsorted array Arr of N positive and negative numbers. Your task is to create an array of alternate positive and negative numbers without changing the relative order of positive and negative numbers. Note: Array should start with positive number.
 
 Q5) Given an array A[] of size N, construct a Product Array P (of same size N) such that P[i] is equal to the product of all the elements of A except A[i].
+
+Q6) You are given an array A of integers of length N. You need to calculate factorial of each number. The answer can be very large, so print it modulo 109 + 7.
+ 
