@@ -1,4 +1,6 @@
 # Array
+whatsapp me for detailed discussion.
+
 Must Do Questions On Array
 
 EASY CATEGORY 
@@ -14,4 +16,6 @@ Q4) Given an unsorted array Arr of N positive and negative numbers. Your task is
 Q5) Given an array A[] of size N, construct a Product Array P (of same size N) such that P[i] is equal to the product of all the elements of A except A[i].
 
 Q6) You are given an array A of integers of length N. You need to calculate factorial of each number. The answer can be very large, so print it modulo 109 + 7.
+
+Q7) Given an positive integer N and a list of N integers A[]. Each element in the array denotes the maximum length of jump you can cover. Find out if you can make it to the last index if you start at the first index of the list.
  
