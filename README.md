@@ -20,3 +20,5 @@ Q6) You are given an array A of integers of length N. You need to calculate fact
 Q7) Given an positive integer N and a list of N integers A[]. Each element in the array denotes the maximum length of jump you can cover. Find out if you can make it to the last index if you start at the first index of the list.
  
 Q8) Given a binary array arr of size N and an integer M. Find the maximum number of consecutive 1's produced by flipping at most M 0's.
+
+Q9)  Given an array arr[] of integers, find out the maximum difference between any two elements such that larger element appears after the smaller number. 
