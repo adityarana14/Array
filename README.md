@@ -24,3 +24,5 @@ Q8) Given a binary array arr of size N and an integer M. Find the maximum number
 Q9)  Given an array arr[] of integers, find out the maximum difference between any two elements such that larger element appears after the smaller number. 
 
 Q10) Given an array A[] of N positive integers. The task is to find the maximum of j - i subjected to the constraint of A[i] <= A[j].
+
+Q11) Given two sorted arrays arr1 and arr2 of size M and N respectively and an element K. The task is to find the element that would be at the k’th position of the final sorted array.
