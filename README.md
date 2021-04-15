@@ -22,3 +22,5 @@ Q7) Given an positive integer N and a list of N integers A[]. Each element in th
 Q8) Given a binary array arr of size N and an integer M. Find the maximum number of consecutive 1's produced by flipping at most M 0's.
 
 Q9)  Given an array arr[] of integers, find out the maximum difference between any two elements such that larger element appears after the smaller number. 
+
+Q10) Given an array A[] of N positive integers. The task is to find the maximum of j - i subjected to the constraint of A[i] <= A[j].
