@@ -30,3 +30,5 @@ Q11) Given two sorted arrays arr1 and arr2 of size M and N respectively and an e
 Q12) Given an array arr[] of N non-negative integers representing the height of blocks. If width of each block is 1, compute how much water can be trapped between the blocks during the rainy season. 
 
 Q13) Given an array Arr of N numbers and another number target, find three integers in the array such that the sum is closest to target. Return the sum of the three integers.
+
+Q14) Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
