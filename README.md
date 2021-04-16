@@ -28,3 +28,5 @@ Q10) Given an array A[] of N positive integers. The task is to find the maximum 
 Q11) Given two sorted arrays arr1 and arr2 of size M and N respectively and an element K. The task is to find the element that would be at the k’th position of the final sorted array.
 
 Q12) Given an array arr[] of N non-negative integers representing the height of blocks. If width of each block is 1, compute how much water can be trapped between the blocks during the rainy season. 
+
+Q13) Given an array Arr of N numbers and another number target, find three integers in the array such that the sum is closest to target. Return the sum of the three integers.
