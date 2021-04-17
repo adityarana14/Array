@@ -32,3 +32,5 @@ Q12) Given an array arr[] of N non-negative integers representing the height of 
 Q13) Given an array Arr of N numbers and another number target, find three integers in the array such that the sum is closest to target. Return the sum of the three integers.
 
 Q14) Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
+
+q15) Given an array arr[] of N integers arranged in a circular fashion. Your task is to find the maximum contiguous subarray sum.
