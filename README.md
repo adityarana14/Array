@@ -34,3 +34,6 @@ Q13) Given an array Arr of N numbers and another number target, find three integ
 Q14) Given an array arr of N integers. Find the contiguous sub-array with maximum sum.
 
 q15) Given an array arr[] of N integers arranged in a circular fashion. Your task is to find the maximum contiguous subarray sum.
+
+q17) Given two sorted arrays arr1[] and arr2[] of sizes n and m in non-decreasing order. Merge them in sorted order without using any extra space. Modify arr1 so that it contains the first N elements and modify arr2 so that it contains the last M elements.
+ 
